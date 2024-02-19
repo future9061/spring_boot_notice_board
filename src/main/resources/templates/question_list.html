@@ -1,0 +1,16 @@
+<table>
+    <thead>
+        <tr>
+            <th>제목</th>
+            <th>작성일시</th>
+        </tr>
+    </thead>
+    <tbody>
+		<!--th:는 타임리프에서 사용하는 속성임을 나타냄. 자바 코드와 연결-->
+		<!--each가 반복문을 만듦-->
+        <tr th:each="question : ${questionList}">
+            <td th:text="${question.subject}"></td>
+            <td th:text="${question.createDate}"></td>
+        </tr>
+    </tbody>
+</table>
