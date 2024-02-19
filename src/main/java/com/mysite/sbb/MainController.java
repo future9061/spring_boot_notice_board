@@ -6,9 +6,16 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 @Controller
 public class MainController {
-	@GetMapping("/sbb")
-	@ResponseBody
-	public String index() {
-		return "index";
-	}
+
+    @GetMapping("/mirae")
+    @ResponseBody
+    public String index() {
+        return "안녕하세요.";
+    }
+
+    @GetMapping("/")
+    // url 리다이렉트.
+    public String root() {
+        return "redirect:/question/list";
+    }
 }
