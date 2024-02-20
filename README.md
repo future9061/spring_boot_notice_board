@@ -4,11 +4,13 @@
 <img src="https://github.com/future9061/spring_boot_notice_board/assets/132829711/1f569423-67b2-414b-8e50-b4f97ccf415a" />
 
 <br />
+<br />
 
 ## 📁 directory 구조
 
 <img src="https://github.com/future9061/spring_boot_notice_board/assets/132829711/f74bdf91-ac48-4e82-a359-6d26b64d7ab1">
 
+<br />
 <br />
 
 
@@ -16,6 +18,7 @@
 
 - 24.02.19 - 진행 중
 
+<br />
 <br />
 
 ## ❗ 개발 환경
@@ -32,6 +35,7 @@
   - `thymeleaf`
   - `validation`
 
+<br />
 <br />
 
 ## 📌 코드 리뷰 & Pull Request
@@ -56,7 +60,8 @@
 
 <br />
 
-
+<br />
+<br />
 
 ## 👍 참고한 게시글
 <a href="https://wikidocs.net/160048">스프링 부트로 게시판 만들기</a>
