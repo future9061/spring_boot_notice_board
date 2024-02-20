@@ -1,5 +1,5 @@
 
-## 💻 프로젝트 소개
+## 💻 Snapshot
 <img src="https://github.com/future9061/spring_boot_notice_board/assets/132829711/b835ea4d-ca4c-4fb6-a6a2-f8f70f890731" />
 <img src="https://github.com/future9061/spring_boot_notice_board/assets/132829711/1f569423-67b2-414b-8e50-b4f97ccf415a" />
 
@@ -40,6 +40,23 @@
   - <a href="https://github.com/future9061/spring_boot_notice_board/pull/2">ISSUE #1</a> 
 
 <br />
+
+- `/question/list` 
+  - <a href="https://github.com/future9061/spring_boot_notice_board/pull/4">ISSUE #4</a>
+
+<br />
+
+ - `/question/detail` 
+  - <a href="https://github.com/future9061/spring_boot_notice_board/pull/6">ISSUE #6</a>
+
+<br />
+
+ - /answer/ 
+  - <a href="https://github.com/future9061/spring_boot_notice_board/pull/6">ISSUE #6</a>
+
+<br />
+
+
 
 ## 👍 참고한 게시글
 <a href="https://wikidocs.net/160048">스프링 부트로 게시판 만들기</a>
