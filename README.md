@@ -20,8 +20,10 @@
 
 ## ❗ 개발 환경
 
-- **Editor** : `Spring Tool Suite 4(4.21.1.RELEASE)`
-- **Framework** :`springframework.boot(3.2.2)`
+- **Editor**
+  - `Spring Tool Suite 4(4.21.1.RELEASE)`
+- **Framework**
+  - `springframework.boot(3.2.2)`
 - **library**
   - `spring-boot-devtools`
   - `lombok`
@@ -34,8 +36,10 @@
 
 ## 📌 코드 리뷰 & Pull Request
 
+- Junit으로 테스트 코드 작성
+  - <a href="https://github.com/future9061/spring_boot_notice_board/pull/2">ISSUE #1</a> 
 
 <br />
 
 ## 👍 참고한 게시글
-<a href="https://wikidocs.net/160048" target="_blank">스프링 부트로 게시판 만들기</a>
+<a href="https://wikidocs.net/160048">스프링 부트로 게시판 만들기</a>
