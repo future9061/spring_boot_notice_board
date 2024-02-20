@@ -33,3 +33,9 @@
 <br />
 
 ## 📌 코드 리뷰 & Pull Request
+
+
+<br />
+
+## 👍 참고한 게시글
+<a href="https://wikidocs.net/160048" target="_blank">스프링 부트로 게시판 만들기</a>
