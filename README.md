@@ -41,28 +41,28 @@
 ## 📌 코드 리뷰 & Pull Request
 
 - Junit으로 테스트 코드 작성
-  - <a href="https://github.com/future9061/spring_boot_notice_board/pull/2">ISSUE #1</a> 
+  - <a href="https://github.com/future9061/spring_boot_notice_board/pull/2">ISSUE #1/PR #2</a> 
 
 <br />
 
 - `/question/list` 
-  -  <a href="https://github.com/future9061/spring_boot_notice_board/pull/4">ISSUE #3</a>
+  -  <a href="https://github.com/future9061/spring_boot_notice_board/pull/4">ISSUE #3/PR #4</a>
   
 <br />
 
- - `/question/detail/{id}` 
-  -  <a href="https://github.com/future9061/spring_boot_notice_board/pull/6">ISSUE #5</a>
+- `/question/detail/{id}` 
+  -  <a href="https://github.com/future9061/spring_boot_notice_board/pull/6">ISSUE #5/PR #6</a>
 
 
 <br />
 
- - `/answer/create/{id}`
-  - <a href="https://github.com/future9061/spring_boot_notice_board/pull/8">ISSUE #7</a>
+- `/answer/create/{id}`
+  - <a href="https://github.com/future9061/spring_boot_notice_board/pull/8">ISSUE #7/PR #8</a>
 
 <br />
 
- - `/question/create`
-  - <a href="https://github.com/future9061/spring_boot_notice_board/pull/10">ISSUE #9</a>
+- `/question/create`
+  - <a href="https://github.com/future9061/spring_boot_notice_board/pull/10">ISSUE #9/PR #10</a>
 
 <br />
 
