@@ -46,17 +46,23 @@
 <br />
 
 - `/question/list` 
-  - <a href="https://github.com/future9061/spring_boot_notice_board/pull/4">ISSUE #4</a>
+  -  <a href="https://github.com/future9061/spring_boot_notice_board/pull/4">ISSUE #3</a>
+  
+<br />
+
+ - `/question/detail/{id}` 
+  -  <a href="https://github.com/future9061/spring_boot_notice_board/pull/6">ISSUE #5</a>
+
 
 <br />
 
- - `/question/detail` 
-  - <a href="https://github.com/future9061/spring_boot_notice_board/pull/6">ISSUE #6</a>
+ - `/answer/create/{id}`
+  - <a href="https://github.com/future9061/spring_boot_notice_board/pull/8">ISSUE #7</a>
 
 <br />
 
- - /answer/ 
-  - <a href="https://github.com/future9061/spring_boot_notice_board/pull/6">ISSUE #6</a>
+ - `/question/create`
+  - <a href="https://github.com/future9061/spring_boot_notice_board/pull/10">ISSUE #9</a>
 
 <br />
 
