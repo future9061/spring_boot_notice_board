@@ -28,6 +28,8 @@ dependencies {
 	//타임리프(템플릿 사용)
 	implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
     implementation 'nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect'
+	//spring boot Validation 라이브러리 : 폼 클래스를 사용해 사용자에게 입력받은 값을 검증한다.
+ 	implementation 'org.springframework.boot:spring-boot-starter-validation'
 }
 
 tasks.named('test') {
