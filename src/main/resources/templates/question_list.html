@@ -9,7 +9,10 @@
 		<!--th:는 타임리프에서 사용하는 속성임을 나타냄. 자바 코드와 연결-->
 		<!--each가 반복문을 만듦-->
         <tr th:each="question : ${questionList}">
-            <td th:text="${question.subject}"></td>
+              <td>
+				  <!--타임리프에서 문자열을 쓸 때에는 |로 좌우를 감싸줘야 한다.-->
+                <a th:href="@{|/question/detail/${question.id}|}" th:text="${question.subject}"></a>
+            </td>
             <td th:text="${question.createDate}"></td>
         </tr>
     </tbody>
